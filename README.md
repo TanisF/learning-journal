@@ -15,7 +15,7 @@ Failure is often the best teacher, and a person with a growth mindset accepts th
 
 
 
-
+To learn more about my journey in both Code 102 and my coding experience in general please visit [my github page](https://github.com/jordan-fox)
 
 **I AM INTENIONALLY KEEPING THE BELOW FOR NOW...**
 
