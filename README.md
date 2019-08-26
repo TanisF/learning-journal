@@ -1,10 +1,10 @@
 Hello, My name is **Jordan Fox**
 
-*Growth mindset* to me means that a person is willing to embrace change even though that may feel extremely uncomfortable.
+_**Growth mindset**_ to me means that a person is willing to embrace change even though that may feel extremely uncomfortable.
 
-It also means that they are willing to critically self-evaluate both their experience and performance in an honest way. Again, this can be extremely uncomfortable.
+It also means that they are willing to _critically self-evaluate_ both their experience and performance in an honest way. Again, this can be extremely uncomfortable.
 
-Failure is often the best teacher, and a person with a growth mindset accepts that failure is an important part of learning and moving forward towards their goals.
+_Failure_ is often the best teacher, and a person with a growth mindset accepts that failure is an important part of learning and moving forward towards their goals.
 
 
 
