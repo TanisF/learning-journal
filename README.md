@@ -1,3 +1,25 @@
+Hello, My name is **Jordan Fox**
+
+*Growth mindset* to me means that a person is willing to embrace change even though that may feel extremely uncomfortable.
+
+It also means that they are willing to critically self-evaluate both their experience and performance in an honest way. Again, this can be extremely uncomfortable.
+
+Failure is often the best teacher, and a person with a growth mindset accepts that failure is an important part of learning and moving forward towards their goals.
+
+
+
+
+
+
+
+
+
+
+
+
+**I AM INTENIONALLY KEEPING THE BELOW FOR NOW...**
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TanisF/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
