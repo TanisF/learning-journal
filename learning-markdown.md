@@ -10,3 +10,10 @@ Important points for _**Markdown**_
 1. Github itself uses something called *Github Flavored Markdown* which adds additional features
 
 [**This Link**](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) lists key basic writing and formatting syntax for use with Markdown
+
+Several other links for more advanced materials include
+
+Daring Fireball [**here**](https://daringfireball.net/projects/markdown/syntax)
+
+And another about advanced formatting for tables, codeblocks and URLs is hosted by github [**here**](https://help.github.com/en/articles/working-with-advanced-formatting)
+
