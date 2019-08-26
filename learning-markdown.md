@@ -1,6 +1,6 @@
 # Learning Markdown
 
-And my journey begins here...
+And my journey begins here... by Jordan Fox
 
 Important points for _**Markdown**_
 
