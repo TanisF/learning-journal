@@ -13,3 +13,8 @@ Syntax Highlighting: Colors text to mean various things. Makes seeing mistakes e
 Themes: Allows editor to change color of background as well as possible text colors. Increases eye relief.
 
 Extensions: Additional plugins that allow you to add functionality to your editor.
+
+**Basic TERMINAL Usage**
+
+Terminal: A text based interface to your computer system.
+
