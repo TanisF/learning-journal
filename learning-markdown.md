@@ -9,9 +9,4 @@ Important points for _**Markdown**_
 1. Besides basic text changes like **Bold** or *Italics* you can also add links to websites, add images, create a quotation section, among others
 1. Github itself uses something called *Github Flavored Markdown* which adds additional features
 
-1.
-1.
-1.
-1.
-1.
-1.
+[**This Link**](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) lists key basic writing and formatting syntax for use with Markdown
