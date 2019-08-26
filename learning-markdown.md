@@ -13,7 +13,7 @@ Important points for _**Markdown**_
 
 Several other links for more advanced materials include
 
-Daring Fireball [**here**](https://daringfireball.net/projects/markdown/syntax)
+Daring Fireball [**here**](https://daringfireball.net/projects/markdown/syntax) which includes a more complete overview of Markdown as well as a list of syntax
 
 And another about advanced formatting for tables, codeblocks and URLs is hosted by github [**here**](https://help.github.com/en/articles/working-with-advanced-formatting)
 
