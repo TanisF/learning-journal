@@ -1,9 +1,9 @@
 # Table of Contents
 
-[About Me](https://github.com/jordan-fox/learning-journal/blob/master/about-me.md)
+[About Me](hhttps://jordan-fox.github.io/learning-journal/about-me)
 
-[Markdown Reference](https://github.com/jordan-fox/learning-journal/blob/master/learning-markdown.md)
+[Markdown Reference](https://jordan-fox.github.io/learning-journal/learning-markdown)
 
-[Code Editors Reference](https://github.com/jordan-fox/learning-journal/blob/master/learning-code-editors.md)
+[Code Editors Reference](https://jordan-fox.github.io/learning-journal/learning-code-editors)
 
-[Git Reference](https://github.com/jordan-fox/learning-journal/blob/master/learning-git.md)
+[Git Reference](https://jordan-fox.github.io/learning-journal/learning-git)
