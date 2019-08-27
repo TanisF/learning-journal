@@ -14,7 +14,7 @@ Themes: Allows editor to change color of background as well as possible text col
 
 Extensions: Additional plugins that allow you to add functionality to your editor.
 
-**Basic TERMINAL Usage**
+**Terminal**
 
 Terminal: A text based interface to your computer system.
 

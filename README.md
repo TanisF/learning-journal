@@ -14,11 +14,4 @@ _Failure_ is often the best teacher, and a person with a growth mindset accepts 
 
 1. Accept that I will feel uncomfortable at times and that is ok
 
-
-
-
-
-
-
-
 To learn more about my journey in both Code 102 and my coding experience in general please visit [my github page](https://github.com/jordan-fox)
