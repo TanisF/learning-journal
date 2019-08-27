@@ -2,8 +2,8 @@
 
 [About Me]()
 
-[Markdown Reference]()
+[Markdown Reference](https://github.com/jordan-fox/learning-journal/blob/master/learning-markdown.md)
 
-[Code Editors Reference]()
+[Code Editors Reference](https://github.com/jordan-fox/learning-journal/blob/master/learning-code-editors.md)
 
-[Git Reference]()
+[Git Reference](https://github.com/jordan-fox/learning-journal/blob/master/learning-git.md)
