@@ -1,6 +1,6 @@
 # Table of Contents
 
-[About Me]()
+[About Me](https://github.com/jordan-fox/learning-journal/blob/master/about-me.md)
 
 [Markdown Reference](https://github.com/jordan-fox/learning-journal/blob/master/learning-markdown.md)
 
