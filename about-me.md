@@ -1,3 +1,5 @@
+[Return to Table of Contents](https://github.com/jordan-fox/learning-journal)
+
 Hello, My name is **Jordan Fox**
 
 _**Growth mindset**_ to me means that a person is willing to embrace change even though that may feel extremely uncomfortable.

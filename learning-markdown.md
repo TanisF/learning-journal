@@ -1,3 +1,5 @@
+[Return to Table of Contents](https://github.com/jordan-fox/learning-journal)
+
 # Learning Markdown
 
 Important points for _**Markdown**_
